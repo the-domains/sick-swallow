@@ -1,0 +1,28 @@
+name: Sick Swallow
+favicon: null
+layout_spectrum: 0.31612872425466776
+typography_spectrum: 0.797937192954123
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7262261232826859
+  lightness: 0.8137314647901803
+  saturation: 0.5840744837187231
+  rhythmicContrast: 0.8377355372067541
+purpose: []
