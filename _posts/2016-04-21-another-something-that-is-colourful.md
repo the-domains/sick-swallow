@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Another something that is colourful.
-datePublished: '2016-04-21T15:07:20.581Z'
-dateModified: '2016-04-21T15:07:08.623Z'
+datePublished: '2016-04-21T15:11:40.737Z'
+dateModified: '2016-04-21T15:07:26.792Z'
 title: ''
 author: []
 authors: []
