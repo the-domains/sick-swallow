@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Aproproprorproopropopo
-datePublished: '2016-04-21T15:12:29.079Z'
-dateModified: '2016-04-21T12:27:43.070Z'
+datePublished: '2016-04-21T15:31:42.810Z'
+dateModified: '2016-04-21T15:14:23.144Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-i-think-it-is-aproproprorproopropopo-to-banish-the-word-apro.md
