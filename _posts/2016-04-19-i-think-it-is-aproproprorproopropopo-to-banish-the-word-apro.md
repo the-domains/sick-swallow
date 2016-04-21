@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Aproproprorproopropopo
-datePublished: '2016-04-21T12:22:43.346Z'
-dateModified: '2016-04-21T12:22:21.809Z'
+datePublished: '2016-04-21T12:27:39.658Z'
+dateModified: '2016-04-21T12:22:51.222Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-19-i-think-it-is-aproproprorproopropopo-to-banish-the-word-apro.md
