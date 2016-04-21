@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Another something that is colourful.
-datePublished: '2016-04-21T12:36:50.683Z'
-dateModified: '2016-04-21T12:36:34.839Z'
+datePublished: '2016-04-21T13:34:52.967Z'
+dateModified: '2016-04-21T13:34:41.498Z'
 title: ''
 author: []
 authors: []
@@ -22,7 +22,5 @@ url: another-something-that-is-colourful/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/363b6b8c-3d95-4c70-84af-0bbdb5cf6208.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97f21a02-5252-4bf7-9792-a328a85fffc6.jpg)
-
 Another something that is colourful.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/714c2d14-b239-4ea3-a466-4a798c631e30.jpg)
